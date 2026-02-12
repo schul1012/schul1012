@@ -5,7 +5,7 @@
 - <b>Domain Controller and Active Directory Setup</b>
   - [Setting up a Domain Controller and a Client, Using VirtualBox](https://github.com/schul1012/Setting-up-network-of-a-domain-controller-and-a-client/tree/main)
   - [TCP/IP and Joining a Domain](https://github.com/schul1012/TCP-IP-and-domain-setup-between-DC-and-a-client/tree/main)
-  - [Active Directory Domain Setup](https://github.com/schul1012/Active-Directory-Domain-Setup/blob/main/README.md)
+  - [Active Directory Domain Setup](https://github.com/schul1012/Active-Directory-Domain-Setup/tree/main)
   - [RAS and NAT Configuration](https://github.com/schul1012/NAT/tree/main)
   - [DHCP](https://github.com/schul1012/DHCP)
   - [Bulk-Creating New Users with a Powershell Script](https://github.com/schul1012/Bulk-creating-New-Users-with-a-Powershell-Script/tree/main)
