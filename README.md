@@ -20,10 +20,18 @@
   - [Disable Removable Storage Access](https://github.com/schul1012/Disable-USB-Devices)
   - [Control Panel Restriction](https://github.com/schul1012/Restricting-Control-Panel)
 
-<h2>🎫 Ticket Simulation (currently in progress)</h2>
+<h2>🎫 Ticket Simulation</h2>
 
 - <b> IT Specialist Simulator<b/>
-  - [Configure Port 1/0/4 on router]()
+  - [Configure Port 1/0/4 on router](https://github.com/schul1012/Configure-Port-0-1-4-on-Router/tree/main)
+  - [Black Screen](https://github.com/schul1012/Black-Screen/tree/main)
+  - [No Data and Connection from Work Time Register](https://github.com/schul1012/No-Data-and-Connection-from-Work-Time-Register/tree/main)
+  - [System Stops during Startup](https://github.com/schul1012/System-Stops-during-Startup/tree/main)
+  - [Changing Addressing to DHCP](https://github.com/schul1012/Change-Addressing-to-Static/tree/main)
+  - [Access Point Breach](https://github.com/schul1012/Access-Point-Breach/tree/main)
+  - [Blue Screen and Incompatible Virtualisation Settings](https://github.com/schul1012/Blue-Screen-and-Incompatible-Virtualisation-Settings)
+  - [System Won't Boot - Turns Off Shortly After](https://github.com/schul1012/System-Won-t-Boot---Turns-Off-Shortly-After/tree/main)
+  - [Terrible-Password-Policy](https://github.com/schul1012/Terrible-Password-Policy)
 
 <!--
 
