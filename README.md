@@ -22,7 +22,7 @@
 
 <h2>🎫 Ticket Simulation</h2>
 
-- <b> IT Specialist Simulator<b/>
+- <b> IT Specialist Simulator</b>
   - [Configure Port 1/0/4 on router](https://github.com/schul1012/Configure-Port-0-1-4-on-Router/tree/main)
   - [Black Screen](https://github.com/schul1012/Black-Screen/tree/main)
   - [No Data and Connection from Work Time Register](https://github.com/schul1012/No-Data-and-Connection-from-Work-Time-Register/tree/main)
